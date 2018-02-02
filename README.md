@@ -5,19 +5,19 @@
 •	Kyle Johnson
 •	Kyle Conniff
 
-#Project Objective:
+# Project Objective:
 1.	Displaying new measures that reflect the performance of our Metro system in a way that’s more relevant to customers.
 2.	Provide our customers with valuable information – about the entire system, or just about the line, or lines, that they take.
 3.	Offers an easy-to-use tool that improves transparency.
 
-#Research questions:
+# Research questions:
 4.	Ridership of the stations
 5.	Time of the day
 6.	The percentage of time trains arrive on schedule 
 7.	Disruptions and outages
 8.	Traffic Patterns
 
-#Data Set to be Used:
+# Data Set to be Used:
 1.	WMATA API
     	https://developer.wmata.com/
     
@@ -33,7 +33,7 @@
 •	http://www.dcmetrometrics.com/home
 •	http://www.dcmetrometrics.com/data
 
-#Rough breakdown of the tasks:
+# Rough breakdown of the tasks:
 1.	Obtain Data in the form of JSON and CSV
 2.	Sort the data
 3.	Import in Jupyter
