@@ -1,0 +1,456 @@
+STATION,PERIOD,RIDERS_PER_WEEKDAY
+Addison Road,AM Peak,23026.4
+Addison Road,Evening,2146.3
+Addison Road,Late Night Peak,52.9
+Addison Road,Midday,8603.400000000001
+Addison Road,PM Peak,3989.899999999999
+Anacostia,AM Peak,34095.799999999996
+Anacostia,Evening,5744.6
+Anacostia,Late Night Peak,170.7
+Anacostia,Midday,22927.899999999998
+Anacostia,PM Peak,20006.1
+Archives-Navy Memorial,AM Peak,4450.9
+Archives-Navy Memorial,Evening,15018.0
+Archives-Navy Memorial,Late Night Peak,338.09999999999997
+Archives-Navy Memorial,Midday,17714.199999999997
+Archives-Navy Memorial,PM Peak,66073.5
+Arlington Cemetery,AM Peak,207.8
+Arlington Cemetery,Evening,1107.7
+Arlington Cemetery,Late Night Peak,7.5
+Arlington Cemetery,Midday,8412.3
+Arlington Cemetery,PM Peak,6589.3
+Ballston,AM Peak,52704.700000000004
+Ballston,Evening,12092.9
+Ballston,Late Night Peak,278.4
+Ballston,Midday,24481.999999999996
+Ballston,PM Peak,43332.40000000001
+Benning Road,AM Peak,17841.4
+Benning Road,Evening,2385.0
+Benning Road,Late Night Peak,76.80000000000003
+Benning Road,Midday,9249.2
+Benning Road,PM Peak,5280.1
+Bethesda,AM Peak,37023.2
+Bethesda,Evening,15313.300000000001
+Bethesda,Late Night Peak,366.0
+Bethesda,Midday,23128.699999999993
+Bethesda,PM Peak,44702.50000000001
+Braddock Road,AM Peak,31830.5
+Braddock Road,Evening,2972.8
+Braddock Road,Late Night Peak,65.2
+Braddock Road,Midday,8903.100000000002
+Braddock Road,PM Peak,10767.3
+Branch Avenue,AM Peak,51116.5
+Branch Avenue,Evening,2209.1000000000004
+Branch Avenue,Late Night Peak,38.0
+Branch Avenue,Midday,9949.8
+Branch Avenue,PM Peak,5724.2
+Brookland,AM Peak,26134.699999999997
+Brookland,Evening,7910.799999999999
+Brookland,Late Night Peak,159.9
+Brookland,Midday,18654.100000000002
+Brookland,PM Peak,24796.5
+Capitol Heights,AM Peak,13820.800000000001
+Capitol Heights,Evening,1296.1
+Capitol Heights,Late Night Peak,43.199999999999996
+Capitol Heights,Midday,5387.8
+Capitol Heights,PM Peak,2771.5
+Capitol South,AM Peak,10186.8
+Capitol South,Evening,11164.1
+Capitol South,Late Night Peak,104.5
+Capitol South,Midday,19536.2
+Capitol South,PM Peak,48410.7
+Cheverly,AM Peak,9977.8
+Cheverly,Evening,631.2
+Cheverly,Late Night Peak,17.4
+Cheverly,Midday,2714.6
+Cheverly,PM Peak,1730.4
+Clarendon,AM Peak,23001.0
+Clarendon,Evening,8817.300000000001
+Clarendon,Late Night Peak,1114.4
+Clarendon,Midday,9840.5
+Clarendon,PM Peak,12359.099999999999
+Cleveland Park,AM Peak,24990.3
+Cleveland Park,Evening,4854.699999999999
+Cleveland Park,Late Night Peak,134.00000000000003
+Cleveland Park,Midday,10728.7
+Cleveland Park,PM Peak,8358.999999999998
+College Park-U of MD,AM Peak,21646.899999999998
+College Park-U of MD,Evening,4149.200000000001
+College Park-U of MD,Late Night Peak,100.70000000000002
+College Park-U of MD,Midday,11463.500000000002
+College Park-U of MD,PM Peak,13590.500000000002
+Columbia Heights,AM Peak,49815.09999999999
+Columbia Heights,Evening,19442.500000000004
+Columbia Heights,Late Night Peak,722.1000000000001
+Columbia Heights,Midday,31995.300000000003
+Columbia Heights,PM Peak,39787.3
+Congress Heights,AM Peak,15002.2
+Congress Heights,Evening,1908.2
+Congress Heights,Late Night Peak,54.0
+Congress Heights,Midday,7739.699999999999
+Congress Heights,PM Peak,5149.5
+Court House,AM Peak,39523.4
+Court House,Evening,7059.700000000001
+Court House,Late Night Peak,221.5
+Court House,Midday,15256.3
+Court House,PM Peak,24141.1
+Crystal City,AM Peak,45101.7
+Crystal City,Evening,10737.6
+Crystal City,Late Night Peak,248.3
+Crystal City,Midday,29804.200000000004
+Crystal City,PM Peak,53652.7
+Deanwood,AM Peak,9275.7
+Deanwood,Evening,1173.7
+Deanwood,Late Night Peak,35.699999999999996
+Deanwood,Midday,4342.2
+Deanwood,PM Peak,2660.2
+Dunn Loring,AM Peak,28917.600000000002
+Dunn Loring,Evening,2462.1
+Dunn Loring,Late Night Peak,79.60000000000001
+Dunn Loring,Midday,9165.699999999999
+Dunn Loring,PM Peak,9383.1
+Dupont Circle,AM Peak,44805.5
+Dupont Circle,Evening,46855.8
+Dupont Circle,Late Night Peak,2459.5
+Dupont Circle,Midday,44745.2
+Dupont Circle,PM Peak,92121.3
+East Falls Church,AM Peak,31216.899999999994
+East Falls Church,Evening,2394.9
+East Falls Church,Late Night Peak,58.6
+East Falls Church,Midday,8597.6
+East Falls Church,PM Peak,7364.1
+Eastern Market,AM Peak,24904.000000000004
+Eastern Market,Evening,10156.9
+Eastern Market,Late Night Peak,372.8
+Eastern Market,Midday,15590.100000000002
+Eastern Market,PM Peak,17599.4
+Eisenhower Avenue,AM Peak,8934.1
+Eisenhower Avenue,Evening,1352.9999999999998
+Eisenhower Avenue,Late Night Peak,55.199999999999996
+Eisenhower Avenue,Midday,3762.3
+Eisenhower Avenue,PM Peak,5322.099999999999
+Farragut North,AM Peak,14180.899999999998
+Farragut North,Evening,46088.6
+Farragut North,Late Night Peak,898.8
+Farragut North,Midday,44581.49999999999
+Farragut North,PM Peak,177043.5
+Farragut West,AM Peak,17027.3
+Farragut West,Evening,40454.90000000001
+Farragut West,Late Night Peak,869.0000000000001
+Farragut West,Midday,40335.899999999994
+Farragut West,PM Peak,155142.30000000002
+Federal Center SW,AM Peak,4999.300000000001
+Federal Center SW,Evening,4533.7
+Federal Center SW,Late Night Peak,31.299999999999997
+Federal Center SW,Midday,11540.9
+Federal Center SW,PM Peak,40460.4
+Federal Triangle,AM Peak,1931.6
+Federal Triangle,Evening,10148.699999999999
+Federal Triangle,Late Night Peak,106.99999999999999
+Federal Triangle,Midday,17028.4
+Federal Triangle,PM Peak,65889.5
+Foggy Bottom,AM Peak,28862.3
+Foggy Bottom,Evening,50706.29999999999
+Foggy Bottom,Late Night Peak,896.9999999999999
+Foggy Bottom,Midday,46923.9
+Foggy Bottom,PM Peak,121224.1
+Forest Glen,AM Peak,18659.799999999996
+Forest Glen,Evening,1022.5999999999999
+Forest Glen,Late Night Peak,21.799999999999997
+Forest Glen,Midday,4399.5
+Forest Glen,PM Peak,3192.2999999999993
+Fort Totten,AM Peak,44221.899999999994
+Fort Totten,Evening,6415.9
+Fort Totten,Late Night Peak,179.20000000000002
+Fort Totten,Midday,20301.8
+Fort Totten,PM Peak,18934.000000000004
+Franconia-Springfield,AM Peak,56963.70000000001
+Franconia-Springfield,Evening,3229.5000000000005
+Franconia-Springfield,Late Night Peak,59.599999999999994
+Franconia-Springfield,Midday,17192.5
+Franconia-Springfield,PM Peak,10598.7
+Friendship Heights,AM Peak,36050.8
+Friendship Heights,Evening,12509.699999999999
+Friendship Heights,Late Night Peak,265.00000000000006
+Friendship Heights,Midday,24614.400000000005
+Friendship Heights,PM Peak,33297.5
+Gallery Place-Chinatown,AM Peak,20548.5
+Gallery Place-Chinatown,Evening,90748.79999999999
+Gallery Place-Chinatown,Late Night Peak,3062.1
+Gallery Place-Chinatown,Midday,47727.8
+Gallery Place-Chinatown,PM Peak,136603.1
+Georgia Avenue-Petworth,AM Peak,33264.5
+Georgia Avenue-Petworth,Evening,6669.2
+Georgia Avenue-Petworth,Late Night Peak,229.3
+Georgia Avenue-Petworth,Midday,16468.2
+Georgia Avenue-Petworth,PM Peak,15669.6
+Glenmont,AM Peak,50148.09999999999
+Glenmont,Evening,2285.7999999999997
+Glenmont,Late Night Peak,50.300000000000004
+Glenmont,Midday,11721.3
+Glenmont,PM Peak,6401.6
+Greenbelt,AM Peak,44531.5
+Greenbelt,Evening,3817.7000000000003
+Greenbelt,Late Night Peak,73.80000000000001
+Greenbelt,Midday,13849.099999999999
+Greenbelt,PM Peak,9970.1
+Greensboro,AM Peak,3323.7
+Greensboro,Evening,1340.3
+Greensboro,Late Night Peak,12.0
+Greensboro,Midday,2091.8
+Greensboro,PM Peak,5736.699999999999
+Grosvenor,AM Peak,42175.1
+Grosvenor,Evening,2492.5999999999995
+Grosvenor,Late Night Peak,46.7
+Grosvenor,Midday,10780.699999999999
+Grosvenor,PM Peak,8343.3
+Huntington,AM Peak,63948.2
+Huntington,Evening,2776.8
+Huntington,Late Night Peak,50.49999999999999
+Huntington,Midday,14749.2
+Huntington,PM Peak,8513.0
+Judiciary Square,AM Peak,5998.900000000001
+Judiciary Square,Evening,8862.2
+Judiciary Square,Late Night Peak,83.3
+Judiciary Square,Midday,21664.600000000002
+Judiciary Square,PM Peak,65734.70000000001
+King Street,AM Peak,33899.4
+King Street,Evening,11300.1
+King Street,Late Night Peak,366.70000000000005
+King Street,Midday,20561.5
+King Street,PM Peak,31815.799999999996
+L'Enfant Plaza,AM Peak,31008.8
+L'Enfant Plaza,Evening,16563.9
+L'Enfant Plaza,Late Night Peak,145.9
+L'Enfant Plaza,Midday,38464.9
+L'Enfant Plaza,PM Peak,149443.69999999998
+Landover,AM Peak,14023.599999999999
+Landover,Evening,1126.7
+Landover,Late Night Peak,36.2
+Landover,Midday,4109.599999999999
+Landover,PM Peak,2199.6
+Largo Town Center,AM Peak,36713.1
+Largo Town Center,Evening,3103.1
+Largo Town Center,Late Night Peak,105.19999999999999
+Largo Town Center,Midday,8763.7
+Largo Town Center,PM Peak,5992.599999999999
+McLean,AM Peak,8283.4
+McLean,Evening,1050.9
+McLean,Late Night Peak,15.5
+McLean,Midday,3319.3999999999996
+McLean,PM Peak,6341.5
+McPherson Square,AM Peak,18948.1
+McPherson Square,Evening,24710.8
+McPherson Square,Late Night Peak,621.0000000000001
+McPherson Square,Midday,29448.7
+McPherson Square,PM Peak,104135.59999999999
+Medical Center,AM Peak,9787.4
+Medical Center,Evening,7301.2
+Medical Center,Late Night Peak,60.7
+Medical Center,Midday,10819.3
+Medical Center,PM Peak,38730.1
+Metro Center,AM Peak,19534.1
+Metro Center,Evening,63509.9
+Metro Center,Late Night Peak,1264.8
+Metro Center,Midday,52237.8
+Metro Center,PM Peak,171368.4
+Minnesota Avenue,AM Peak,12212.399999999998
+Minnesota Avenue,Evening,2448.7
+Minnesota Avenue,Late Night Peak,78.39999999999999
+Minnesota Avenue,Midday,8480.4
+Minnesota Avenue,PM Peak,7320.899999999999
+Morgan Blvd.,AM Peak,16086.800000000001
+Morgan Blvd.,Evening,1668.4999999999998
+Morgan Blvd.,Late Night Peak,154.3
+Morgan Blvd.,Midday,4112.3
+Morgan Blvd.,PM Peak,2420.2000000000003
+Mt. Vernon Square-UDC,AM Peak,14960.800000000001
+Mt. Vernon Square-UDC,Evening,8065.299999999999
+Mt. Vernon Square-UDC,Late Night Peak,276.2
+Mt. Vernon Square-UDC,Midday,10644.499999999998
+Mt. Vernon Square-UDC,PM Peak,19736.0
+Navy Yard,AM Peak,12615.000000000002
+Navy Yard,Evening,29363.5
+Navy Yard,Late Night Peak,500.1
+Navy Yard,Midday,14155.8
+Navy Yard,PM Peak,44930.3
+Naylor Road,AM Peak,18432.5
+Naylor Road,Evening,2174.7000000000003
+Naylor Road,Late Night Peak,67.30000000000001
+Naylor Road,Midday,7237.0
+Naylor Road,PM Peak,4119.5
+New Carrollton,AM Peak,61027.8
+New Carrollton,Evening,3896.2000000000003
+New Carrollton,Late Night Peak,67.9
+New Carrollton,Midday,16539.199999999997
+New Carrollton,PM Peak,11301.300000000001
+New York Ave,AM Peak,32036.9
+New York Ave,Evening,8874.2
+New York Ave,Late Night Peak,265.7
+New York Ave,Midday,21280.899999999998
+New York Ave,PM Peak,45908.00000000001
+Pentagon,AM Peak,66111.79999999999
+Pentagon,Evening,6098.1
+Pentagon,Late Night Peak,47.099999999999994
+Pentagon,Midday,31925.9
+Pentagon,PM Peak,69466.9
+Pentagon City,AM Peak,61470.6
+Pentagon City,Evening,20169.7
+Pentagon City,Late Night Peak,171.0
+Pentagon City,Midday,36132.40000000001
+Pentagon City,PM Peak,42323.5
+Potomac Avenue,AM Peak,23108.7
+Potomac Avenue,Evening,2985.4
+Potomac Avenue,Late Night Peak,74.60000000000001
+Potomac Avenue,Midday,10153.6
+Potomac Avenue,PM Peak,6778.5
+Prince George's Plaza,AM Peak,26585.799999999996
+Prince George's Plaza,Evening,5579.2
+Prince George's Plaza,Late Night Peak,121.10000000000001
+Prince George's Plaza,Midday,12754.6
+Prince George's Plaza,PM Peak,11266.200000000003
+Reagan Washington National Airport,AM Peak,9442.5
+Reagan Washington National Airport,Evening,18694.2
+Reagan Washington National Airport,Late Night Peak,272.6
+Reagan Washington National Airport,Midday,25130.8
+Reagan Washington National Airport,PM Peak,23465.7
+Rhode Island Avenue,AM Peak,30298.8
+Rhode Island Avenue,Evening,5629.400000000001
+Rhode Island Avenue,Late Night Peak,141.60000000000002
+Rhode Island Avenue,Midday,17526.6
+Rhode Island Avenue,PM Peak,14762.7
+Rockville,AM Peak,24992.7
+Rockville,Evening,3936.0000000000005
+Rockville,Late Night Peak,75.4
+Rockville,Midday,10834.400000000001
+Rockville,PM Peak,11731.1
+Rosslyn,AM Peak,49200.40000000001
+Rosslyn,Evening,17009.100000000002
+Rosslyn,Late Night Peak,310.59999999999997
+Rosslyn,Midday,35202.299999999996
+Rosslyn,PM Peak,69315.40000000001
+Shady Grove,AM Peak,95867.90000000001
+Shady Grove,Evening,4496.6
+Shady Grove,Late Night Peak,81.10000000000001
+Shady Grove,Midday,24452.1
+Shady Grove,PM Peak,17114.899999999998
+Shaw-Howard University,AM Peak,18524.3
+Shaw-Howard University,Evening,8798.6
+Shaw-Howard University,Late Night Peak,585.4
+Shaw-Howard University,Midday,13554.099999999999
+Shaw-Howard University,PM Peak,18926.2
+Silver Spring,AM Peak,69755.8
+Silver Spring,Evening,12146.599999999999
+Silver Spring,Late Night Peak,367.8
+Silver Spring,Midday,30168.2
+Silver Spring,PM Peak,35807.2
+Smithsonian,AM Peak,3322.7
+Smithsonian,Evening,11838.199999999999
+Smithsonian,Late Night Peak,147.50000000000003
+Smithsonian,Midday,24639.499999999996
+Smithsonian,PM Peak,79306.5
+Southern Avenue,AM Peak,35587.19999999999
+Southern Avenue,Evening,3229.9000000000005
+Southern Avenue,Late Night Peak,85.2
+Southern Avenue,Midday,12447.100000000002
+Southern Avenue,PM Peak,6512.499999999999
+Spring Hill,AM Peak,5340.1
+Spring Hill,Evening,1726.3999999999999
+Spring Hill,Late Night Peak,21.599999999999998
+Spring Hill,Midday,2887.5
+Spring Hill,PM Peak,5004.2
+Stadium-Armory,AM Peak,13209.199999999997
+Stadium-Armory,Evening,3315.3999999999996
+Stadium-Armory,Late Night Peak,81.60000000000001
+Stadium-Armory,Midday,7784.399999999999
+Stadium-Armory,PM Peak,6786.599999999999
+Suitland,AM Peak,35242.200000000004
+Suitland,Evening,3172.5000000000005
+Suitland,Late Night Peak,82.1
+Suitland,Midday,11746.300000000001
+Suitland,PM Peak,10949.900000000001
+Takoma,AM Peak,36157.9
+Takoma,Evening,3794.7999999999997
+Takoma,Late Night Peak,103.09999999999998
+Takoma,Midday,14604.0
+Takoma,PM Peak,9595.9
+Tenleytown-AU,AM Peak,21280.3
+Tenleytown-AU,Evening,10340.9
+Tenleytown-AU,Late Night Peak,150.29999999999998
+Tenleytown-AU,Midday,16930.9
+Tenleytown-AU,PM Peak,28078.700000000004
+Twinbrook,AM Peak,25541.3
+Twinbrook,Evening,3009.2999999999997
+Twinbrook,Late Night Peak,77.6
+Twinbrook,Midday,10085.999999999998
+Twinbrook,PM Peak,11403.000000000002
+Tysons Corner,AM Peak,6313.799999999999
+Tysons Corner,Evening,8495.7
+Tysons Corner,Late Night Peak,132.8
+Tysons Corner,Midday,6374.0
+Tysons Corner,PM Peak,15398.899999999998
+U Street-Cardozo,AM Peak,24443.3
+U Street-Cardozo,Evening,19943.6
+U Street-Cardozo,Late Night Peak,3084.7
+U Street-Cardozo,Midday,14945.999999999998
+U Street-Cardozo,PM Peak,22664.9
+Union Station,AM Peak,109712.0
+Union Station,Evening,42372.7
+Union Station,Late Night Peak,713.5
+Union Station,Midday,65616.5
+Union Station,PM Peak,139273.8
+Van Dorn Street,AM Peak,25301.800000000003
+Van Dorn Street,Evening,1882.6999999999996
+Van Dorn Street,Late Night Peak,33.4
+Van Dorn Street,Midday,5842.0
+Van Dorn Street,PM Peak,4409.0
+Van Ness-UDC,AM Peak,29732.100000000002
+Van Ness-UDC,Evening,7427.0
+Van Ness-UDC,Late Night Peak,95.59999999999997
+Van Ness-UDC,Midday,17056.899999999998
+Van Ness-UDC,PM Peak,18616.2
+Vienna,AM Peak,86862.00000000001
+Vienna,Evening,4488.0
+Vienna,Late Night Peak,68.39999999999999
+Vienna,Midday,20371.0
+Vienna,PM Peak,13959.4
+Virginia Square-GMU,AM Peak,22567.7
+Virginia Square-GMU,Evening,3765.1
+Virginia Square-GMU,Late Night Peak,60.599999999999994
+Virginia Square-GMU,Midday,8363.2
+Virginia Square-GMU,PM Peak,11729.500000000002
+Waterfront,AM Peak,15524.500000000002
+Waterfront,Evening,5384.900000000001
+Waterfront,Late Night Peak,165.10000000000002
+Waterfront,Midday,11400.100000000002
+Waterfront,PM Peak,15212.900000000001
+West Falls Church,AM Peak,23266.0
+West Falls Church,Evening,1351.3
+West Falls Church,Late Night Peak,32.0
+West Falls Church,Midday,6064.1
+West Falls Church,PM Peak,3597.8
+West Hyattsville,AM Peak,24955.5
+West Hyattsville,Evening,2366.8999999999996
+West Hyattsville,Late Night Peak,58.900000000000006
+West Hyattsville,Midday,9647.199999999999
+West Hyattsville,PM Peak,6523.999999999999
+Wheaton,AM Peak,25075.100000000006
+Wheaton,Evening,4582.9
+Wheaton,Late Night Peak,88.79999999999998
+Wheaton,Midday,10007.9
+Wheaton,PM Peak,8048.4
+White Flint,AM Peak,18539.3
+White Flint,Evening,3297.8
+White Flint,Late Night Peak,106.8
+White Flint,Midday,8710.4
+White Flint,PM Peak,13509.5
+Wiehle,AM Peak,58538.9
+Wiehle,Evening,4050.9000000000005
+Wiehle,Late Night Peak,54.099999999999994
+Wiehle,Midday,15334.100000000002
+Wiehle,PM Peak,17740.4
+Woodley Park-Zoo,AM Peak,28894.699999999997
+Woodley Park-Zoo,Evening,8918.400000000001
+Woodley Park-Zoo,Late Night Peak,622.7
+Woodley Park-Zoo,Midday,20008.500000000004
+Woodley Park-Zoo,PM Peak,20201.6
