@@ -2,10 +2,10 @@ var svgwidth = 2000;
 var svgheight = 750;
 
 var chartMargin = {
-	top:30,
-	right:30,
-	left:30,
-	bottom:30
+	top:50,
+	right:50,
+	left:50,
+	bottom:50
 };
 
 var chartWidth = svgwidth - chartMargin.left - chartMargin.right;
