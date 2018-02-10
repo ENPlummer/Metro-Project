@@ -39,12 +39,19 @@
 		<!--Kyle's graphs-->	
 		  <div class="row">
 		  	<div class="col-md-6">
-		  	  <div id="graph"></div>
-		  	<div class="col-md-6">
-		  	   <div id="graph"></div>	 
+				<p3>SELECT Time:</p3>
+				<select id="selTimeData" onchange="optionChanged(this.value)"></select>
+				<p3>SELECT METRO STATION:</p3>
+				<select id="selStationData" onchange="optionChanged(this.value)"></select>
+				<button type='submit' onsubmit="getDelayData()">Submit</button>
+				<div class="panel panel-primary">
+				<div class = "panel-heading">
+				<h4 class ="panel-title"> Average Delay</h4>
+		  	  	<div class ="panel-body"><p id = "sample-metadata"></p></div>	 
 		  	</div>  	
 		  	</div>
 		  </div>	
 		</div>
-	</div>
+<script src = "js/kyle_javascript.js"></script>
 </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Flask Plotlyjs Example</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 Jumbotron text-center">
+				<h1>Washington Metro Analysis Dashboard</h1>
+			</div>
+		   <div class="row">
+			  <div class="col-md-2">		  
+			   	  <!--Ebony's graphs-->
+			   	  <div class="col-md-5">
+			   	  	 <div id="bar-graph"></div>
+			   	  <div class="col-md-5">
+
+    				<div id="plot"></div>
+			   	  </div>	 
+			   	  </div>
+			   	</div>
+			   </div>	
+			</div>
+		</div>
+	</div>
+		<!--Kyle's graphs-->	
+		  <div class="row">
+		  	<div class="col-md-4">
+				<p3>SELECT Time:</p3>
+				<select id="selTimeData" onchange="optionChanged(this.value)"></select>
+				<p3>SELECT METRO STATION:</p3>
+				<select id="selStationData" onchange="optionChanged(this.value)"></select>
+				<button type='submit' onclick ="getDelayData()">Submit</button>
+				<div class="panel panel-primary">
+				<div class = "panel-body">
+				<h4 class ="panel-title"> Average Delay(Mins) To Be Expected</h4>
+		  	  	<div class ="panel-body"><p id = "sample-metadata"></p></div>	 
+		  	</div>  	
+		  	</div>
+		  </div>	
+		</div>
+
+<script src="js/plots.js"></script>
+<script src = "js/kyle_javascript.js"></script>
+</body>
+</html>
